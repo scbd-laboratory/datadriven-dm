@@ -1,1 +1,1 @@
-# Hands-on of Data Driven Decision Making - 23 September 2019
+# Hands-on of Data Driven Decision Making (23/09/2019)
