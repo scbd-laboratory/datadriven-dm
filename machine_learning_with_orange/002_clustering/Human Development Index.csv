@@ -1,0 +1,469 @@
+KOTA,ID,HDI,REVENUE
+"Ambon, Kota",IDN_Ambon_Kota_18139,79.58,8.48613E+11
+"Balikpapan, Kota",IDN_Balikpapan_Kota_18130,79.87,2.42221E+12
+"Banda Aceh, Kota",IDN_Banda_Aceh_Kota_73705,79,9.28241E+11
+"Bandar Lampung, Kota",IDN_Bandar_Lampung_Kota_18134,77.17,1.68841E+12
+"Bandung, Kota",IDN_Bandung_Kota_18015,77.32,4.33209E+12
+"Banjar, Kota",IDN_Banjar_Kota_73707,72.84,6.20917E+11
+"Banjarbaru, Kota",IDN_Banjarbaru_Kota_73706,76.86,7.47567E+11
+"Banjarmasin, Kota",IDN_Banjarmasin_Kota_18113,75.28,1.28511E+12
+"Batam, Kota",IDN_Batam_Kota_73708,78.73,1.74911E+12
+"Batu, Kota",IDN_Batu_Kota_73709,76.09,5.53618E+11
+"Bau-bau, Kota",IDN_Bau-Bau_Kota_73710,75.1,6.39548E+11
+"Bekasi, Kota",IDN_Bekasi_Kota_73711,77.67,2.96261E+12
+"Bengkulu, Kota",IDN_Bengkulu_Kota_73712,78.77,7.93506E+11
+"Bima, Kota",IDN_Bima_Kota_73713,70.73,5.372E+11
+"Binjai, Kota",IDN_Binjai_Kota_18228,77.79,7.11568E+11
+"Bitung, Kota",IDN_Bitung_Kota_73714,76.66,6.51337E+11
+"Blitar, Kota",IDN_Blitar_Kota_18073,78.7,6.12552E+11
+"Bogor, Kota",IDN_Bogor_Kota_18016,76.82,1.57437E+12
+"Bontang, Kota",IDN_Bontang_Kota_73715,78.4,1.40978E+12
+"Bukittinggi, Kota",IDN_Bukittinggi_Kota_73716,79.29,5.27478E+11
+"Cilegon, Kota",IDN_Cilegon_Kota_73717,76.31,1.09675E+12
+"Cimahi, Kota",IDN_Cimahi_Kota_73718,76.86,9.7535E+11
+"Cirebon, Kota",IDN_Cirebon_Kota_18017,76.67,1.00995E+12
+"Denpasar, Kota",IDN_Denpasar_Kota_73719,79.41,1.54761E+12
+"Depok, Kota",IDN_Depok_Kota_73720,80.14,1.9214E+12
+"Dumai, Kota",IDN_Dumai_Kota_73721,78.99,1.08839E+12
+"Gorontalo, Kota",IDN_Gorontalo_Kota_18199,74.71,6.75338E+11
+"Jambi, Kota",IDN_Jambi_Kota_18003,77.52,1.16435E+12
+"Jayapura, Kota",IDN_Jayapura_Kota_73727,77.12,1.00547E+12
+"Kediri, Kota",IDN_Kediri_Kota_18074,77.8,9.79947E+11
+"Kendari, Kota",IDN_Kendari_Kota_73695,77.02,9.16011E+11
+"Kepulauan Tidore, Kota",IDN_Kepulauan_Tidore_Kota_73759,70.8,5.8094E+11
+"Kotamobagu, Kota",IDN_Kotamobagu_18261,77.05,4.33606E+11
+"Kupang, Kota",IDN_Kupang_Kota_73731,78.62,8.15933E+11
+"Langsa, Kota",IDN_Langsa_Kota_73732,75.1,5.6002E+11
+"Lhokseumawe, Kota",IDN_Lhokseumawe_Kota_73733,77.84,6.43373E+11
+"Lubuklinggau, Kota",IDN_Lubuklinggau_Kota_73734,71.83,7.53988E+11
+"Madiun, Kota",IDN_Madiun_Kota_18075,78.17,8.09078E+11
+"Magelang, Kota",IDN_Magelang_Kota_18043,77.91,6.3476E+11
+"Makassar, Kota",IDN_Makassar_Kota_73735,80.17,2.36104E+12
+"Malang, Kota",IDN_Malang_Kota_18076,78.78,1.52485E+12
+"Manado, Kota",IDN_ManAND_Kota_18200,79.34,1.20493E+12
+"Mataram, Kota",IDN_Mataram_Kota_73736,74.58,8.6584E+11
+"Medan, Kota",IDN_Medan_Kota_18229,78.62,3.26702E+12
+"Metro, Kota",IDN_Metro_Kota_73737,77.53,6.18314E+11
+"Mojokerto, Kota",IDN_Mojokerto_Kota_18077,78.66,5.68901E+11
+"Padang Panjang, Kota",IDN_Padang_Panjang_Kota_18205,78.81,1.66806E+12
+"Padang Sidempuan, Kota",IDN_Padang_Sidempuan_Kota_73738,76.31,6.25779E+11
+"Padang, Kota",IDN_Padang_Kota_18204,78.82,1.71474E+12
+"Pagar Alam, Kota",IDN_Pagar_Alam_Kota_73739,74.47,6.23518E+11
+"Palangkaraya, Kota",IDN_Palangkaraya_Kota_18124,79.52,8.74843E+11
+"Palembang, Kota",IDN_Palembang_Kota_18218,77.74,2.51065E+12
+"Palopo, Kota",IDN_Palopo_Kota_73740,77.7,6.0441E+11
+"Palu, Kota",IDN_Palu_Kota_73741,77.88,9.98143E+11
+"Pangkal Pinang, Kota",IDN_Pangkal_Pinang_Kota_73742,77.3,6.62197E+11
+"Parepare, Kota",IDN_Parepare_Kota_18174,79.02,6.14514E+11
+"Pasuruan, Kota",IDN_Pasuruan_Kota_18078,74.75,5.76598E+11
+"Payakumbuh, Kota",IDN_Payakumbuh_Kota_73746,76.99,5.42605E+11
+"Pekalongan, Kota",IDN_Pekalongan_Kota_18044,75.75,6.75375E+11
+"Pekanbaru, Kota",IDN_Pekanbaru_Kota_18165,79.47,1.99561E+12
+"Pematang Siantar, Kota",IDN_Pematang_Siantar_Kota_73747,78.62,7.31041E+11
+"Pontianak, Kota",IDN_Pontianak_Kota_18103,74.64,1.24709E+12
+"Prabumulih, Kota",IDN_Prabumulih_Kota_73748,75.83,7.81836E+11
+"Probolinggo, Kota",IDN_Probolinggo_Kota_18079,75.94,6.82356E+11
+"Sabang, Kota",IDN_Sabang_Kota_17967,77.23,4.2709E+11
+"Samarinda, Kota",IDN_Samarinda_Kota_18131,78.79,2.56763E+12
+"Sawahlunto, Kota",IDN_Sawahlunto_Kota_18206,76.11,5.28682E+11
+"Semarang, Kota",IDN_Semarang_Kota_18046,78.54,2.79657E+12
+"Serang, Kota",IDN_Serang_18294,73.12,8.69333E+11
+"Sibolga, Kota",IDN_Sibolga_Kota_18231,76.19,4.62587E+11
+"Singkawang, Kota",IDN_Singkawang_Kota_73750,70.66,6.56306E+11
+"Solok, Kota",IDN_Solok_Kota_18207,76.85,4.34103E+11
+"Sorong, Kota",IDN_Sorong_Kota_73751,78.92,7.62888E+11
+"Subulussalam, Kota",IDN_Subulussalam_18295,70.6,3.57145E+11
+"Sukabumi, Kota",IDN_Sukabumi_Kota_18018,76.16,8.44636E+11
+"Sungai Penuh, Kota",IDN_Sungai_Penuh_18300,78.11,5.57416E+11
+"Surabaya, Kota",IDN_Surabaya_Kota_18080,78.97,5.23529E+12
+"Surakarta, Kota",IDN_Surakarta_Kota_18047,79.1,1.38501E+12
+"Tangerang Selatan, Kota",IDN_Tangerang_Selatan_18303,77.13,2.01954E+12
+"Tangerang, Kota",IDN_Tangerang_Kota_73752,76.05,2.5542E+12
+"Tanjung Balai, Kota",IDN_Tanjung_Balai_Kota_73753,75.44,5.42933E+11
+"Tanjung Pinang, Kota",IDN_Tanjung_Pinang_Kota_73754,76.19,8.83677E+11
+"Tasikmalaya, Kota",IDN_Tasikmalaya_Kota_73756,75.71,1.36559E+12
+"Tebing Tinggi, Kota",IDN_Tebing_Tinggi_Kota_73757,77.96,5.9625E+11
+"Tegal, Kota",IDN_Tegal_Kota_18048,75.02,7.23969E+11
+"Ternate, Kota",IDN_Ternate_Kota_73758,78.44,6.467E+11
+"Tomohon, Kota",IDN_Tomohon_Kota_73760,77.82,4.636E+11
+"Tual, Kota",IDN_Tual_18305,77.91,3.42877E+11
+"Yogyakarta, Kota",IDN_Yogyakarta_Kota_17983,80.51,1.30958E+12
+"Aceh Barat Daya, Kab.",IDN_Aceh_Barat_Daya_Kab_73623,72.07,5.54549E+11
+"Aceh Barat, Kab.",IDN_Aceh_Barat_Kab_73624,72.24,7.20458E+11
+"Aceh Besar, Kab.",IDN_Aceh_Besar_Kab_17960,74.51,9.33251E+11
+"Aceh Jaya, Kab.",IDN_Aceh_Jaya_Kab_73625,71,4.77645E+11
+"Aceh Selatan, Kab.",IDN_Aceh_Selatan_Kab_73626,71.18,7.49089E+11
+"Aceh Singkil, Kab.",IDN_Aceh_Singkil_Kab_73627,69.79,4.75096E+11
+"Aceh Tamiang, Kab.",IDN_Aceh_Tamiang_Kab_73628,72.04,6.57325E+11
+"Aceh Tengah, Kab.",IDN_Aceh_Tengah_Kab_73629,75.04,7.91919E+11
+"Aceh Tenggara, Kab.",IDN_Aceh_Tenggara_Kab_73630,72.81,6.37645E+11
+"Aceh Timur, Kab.",IDN_Aceh_Timur_Kab_73631,71.79,9.55562E+11
+"Aceh Utara, Kab.",IDN_Aceh_Utara_Kab_73632,73.51,1.49321E+12
+"Agam, Kab.",IDN_Agam_Kab_18202,74.5,1.00542E+12
+"Alor, Kab.",IDN_Alor_Kab_18149,69.67,6.40816E+11
+"Asahan, Kab.",IDN_Asahan_Kab_73633,74.23,1.20201E+12
+"Asmat, Kab.",IDN_Asmat_Kab_73634,52.44,1.0078E+12
+"Badung, Kab.",IDN_Badung_Kab_17969,76.37,2.95466E+12
+"Balangan, Kab.",IDN_Balangan_Kab_73635,68.3,7.21742E+11
+"Bandung Barat, Kab.",IDN_Bandung_Barat_18237,74.59,1.67136E+12
+"Bandung, Kab.",IDN_Bandung_Kab_73636,75.11,3.36804E+12
+"Banggai Kepulauan, Kab.",IDN_Banggai_Kepulauan_Kab_73637,69.12,6.16517E+11
+"Banggai, Kab.",IDN_Banggai_Kab_73638,72.75,1.01014E+12
+"Bangka Barat, Kab.",IDN_Bangka_Barat_Kab_73639,71.46,5.97297E+11
+"Bangka Selatan, Kab.",IDN_Bangka_Selatan_Kab_73640,68.58,5.68024E+11
+"Bangka Tengah, Kab.",IDN_Bangka_Tengah_Kab_73641,72.64,5.58475E+11
+"Bangka, Kab.",IDN_Bangka_Kab_73642,74.05,8.10681E+11
+"Bangkalan, Kab.",IDN_Bangkalan_Kab_18064,66.19,1.40579E+12
+"Bangli, Kab.",IDN_Bangli_Kab_17970,72.28,7.02888E+11
+"Banjar, Kab.",IDN_Banjar_Kab_18108,72.3,1.2265E+12
+"Banjarnegara, Kab.",IDN_Banjarnegara_Kab_18030,71.13,1.2797E+12
+"Bantaeng, Kab.",IDN_Bantaeng_Kab_18167,72.22,5.56111E+11
+"Bantul, Kab.",IDN_Bantul_Kab_17981,76.01,1.5203E+12
+"Banyuasin, Kab.",IDN_Banyuasin_Kab_73643,71.08,1.66368E+12
+"Banyumas, Kab.",IDN_Banyumas_Kab_18031,73.96,2.03764E+12
+"Banyuwangi, Kab.",IDN_Banyuwangi_Kab_18065,71.02,1.91706E+12
+"Barito Selatan, Kab.",IDN_Barito_Selatan_Kab_73644,74.54,7.08452E+11
+"Barito Timur, Kab.",IDN_Barito_Timur_Kab_73645,73.86,6.34427E+11
+"Barito Utara, Kab.",IDN_Barito_Utara_Kab_73646,76.13,7.80559E+11
+"Batang, Kab.",IDN_Batang_Kab_18032,72.03,1.08663E+12
+"Batanghari, Kab.",IDN_Batanghari_Kab_73647,74.25,9.48698E+11
+"Bekasi, Kab.",IDN_Bekasi_Kab_18007,74.8,3.36225E+12
+"Belitung Timur, Kab.",IDN_Belitung_Timur_Kab_73648,73.46,5.84462E+11
+"Belitung, Kab.",IDN_Belitung_Kab_73649,74.82,6.55826E+11
+"Belu, Kab.",IDN_Belu_Kab_18150,66.24,8.41203E+11
+"Bener Meriah, Kab.",IDN_Bener_Meriah_Kab_73650,72.39,5.25854E+11
+"Bengkalis, Kab.",IDN_Bengkalis_Kab_73651,76.12,3.10894E+12
+"Bengkayang, Kab.",IDN_Bengkayang_Kab_73652,69.38,6.76354E+11
+"Bengkulu Selatan, Kab.",IDN_Bengkulu_Selatan_Kab_73653,73.66,6.08059E+11
+"Bengkulu Tengah, Kab.",IDN_Bengkulu_Tengah_18240,69.93,4.77511E+11
+"Bengkulu Utara, Kab.",IDN_Bengkulu_Utara_Kab_73654,73.67,6.89469E+11
+"Berau, Kab.",IDN_Berau_Kab_18128,75.83,1.79907E+12
+"Biak Numfor, Kab.",IDN_Biak_Numfor_Kab_73655,71.03,7.09244E+11
+"Bima, Kab.",IDN_Bima_Kab_73656,67.34,1.00101E+12
+"Bintan, Kab.",IDN_Bintan_Kab_73698,76.1,9.1642E+11
+"Bireuen, Kab.",IDN_Bireuen_Kab_73657,74.03,1.02872E+12
+"Blitar, Kab.",IDN_Blitar_Kab_18066,74.92,1.60423E+12
+"Blora, Kab.",IDN_Blora_Kab_18033,72.1,1.2928E+12
+"Boalemo, Kab.",IDN_Boalemo_Kab_73658,69.78,4.87379E+11
+"Bogor, Kab.",IDN_Bogor_Kab_18008,73.92,4.57233E+12
+"Bojonegoro, Kab.",IDN_Bojonegoro_Kab_18067,68.32,2.02435E+12
+"Bolaang Mongondow Timur, Kab.",IDN_Bolaang_Mongondow_Timur_18243,73.75,3.31179E+11
+"Bolaang Mongondow Utara, Kab.",IDN_Bolaang_Mongondow_Utara_18244,73.94,3.72507E+11
+"Bolaang Mongondow, Kab.",IDN_Bolaang_Mongondow_Kab_18197,74.22,5.99168E+11
+"Bombana, Kab.",IDN_Bombana_Kab_73659,69.67,5.69487E+11
+"Bondowoso, Kab.",IDN_Bondowoso_Kab_18068,65.39,1.26684E+12
+"Bone Bolango, Kab.",IDN_Bone_Bolango_Kab_73660,73.24,5.41169E+11
+"Bone, Kab.",IDN_Bone_Kab_18169,72.08,1.39274E+12
+"Boyolali, Kab.",IDN_Boyolali_Kab_18034,71.88,1.46313E+12
+"Brebes, Kab.",IDN_Brebes_Kab_18035,69.85,1.78187E+12
+"Buleleng, Kab.",IDN_Buleleng_Kab_17971,72.54,1.39066E+12
+"Bulukumba, Kab.",IDN_Bulukumba_Kab_18170,73.21,9.2353E+11
+"Bungo, Kab.",IDN_Bungo_Kab_73663,73.44,9.41483E+11
+"Buol, Kab.",IDN_Buol_Kab_73664,71.07,5.60953E+11
+"Buru Selatan, Kab.",IDN_Buru_Selatan_18245,70.23,3.97753E+11
+"Buru, Kab.",IDN_Buru_Kab_73665,70.79,4.85557E+11
+"Buton, Kab.",IDN_Buton_Kab_73666,70.35,8.07807E+11
+"Ciamis, Kab.",IDN_Ciamis_Kab_73667,72.68,2.19649E+12
+"Cianjur, Kab.",IDN_Cianjur_Kab_18010,70.38,2.24786E+12
+"Cilacap, Kab.",IDN_Cilacap_Kab_18036,73.34,2.12136E+12
+"Cirebon, Kab.",IDN_Cirebon_Kab_18011,70.25,2.31601E+12
+"Dairi, Kab.",IDN_Dairi_Kab_73668,74.22,7.19213E+11
+"Deli Serdang, Kab.",IDN_Deli_Serdang_Kab_73669,76.82,2.09634E+12
+"Demak, Kab.",IDN_Demak_Kab_18037,73.85,1.39872E+12
+"Dharmasraya, Kab.",IDN_Dharmasraya_Kab_73670,70.52,5.95137E+11
+"Dogiyai, Kab.",IDN_Dogiyai_18248,51.42,5.8088E+11
+"Dompu, Kab.",IDN_Dompu_Kab_18144,68.31,6.70627E+11
+"Donggala, Kab.",IDN_Donggala_Kab_73671,71.42,7.88244E+11
+"Empat Lawang, Kab.",IDN_Empat_Lawang_18249,70.02,6.11636E+11
+"Ende, Kab.",IDN_Ende_Kab_18151,68.67,6.89786E+11
+"Enrekang, Kab.",IDN_Enrekang_Kab_18171,75.67,2.46613E+11
+"Fakfak, Kab.",IDN_Fakfak_Kab_73672,73.33,8.52948E+11
+"Flores Timur, Kab.",IDN_Flores_Timur_Kab_73673,70.03,6.55602E+11
+"Garut, Kab.",IDN_Garut_Kab_18012,72.43,2.74153E+12
+"Gayo Lues, Kab.",IDN_Gayo_Lues_Kab_73674,69.09,5.21669E+11
+"Gianyar, Kab.",IDN_Gianyar_Kab_17972,75.02,1.24842E+12
+"Gorontalo Utara, Kab.",IDN_Gorontalo_Utara_18250,70.81,4.08355E+11
+"Gorontalo, Kab.",IDN_Gorontalo_18199.55,71.45,8.00101E+11
+"Gowa, Kab.",IDN_Gowa_Kab_18172,72.12,1.08548E+12
+"Gresik, Kab.",IDN_Gresik_Kab_18069,76.36,1.84056E+12
+"Grobogan, Kab.",IDN_Grobogan_Kab_18038,72.37,1.54971E+12
+"Gunung Kidul, Kab.",IDN_Gunung_Kidul_Kab_17982,71.64,1.24209E+12
+"Gunung Mas, Kab.",IDN_Gunung_Mas_Kab_73676,74.26,6.67568E+11
+"Halmahera Barat, Kab.",IDN_Halmahera_Barat_Kab_73677,68.56,5.05215E+11
+"Halmahera Selatan, Kab.",IDN_Halmahera_Selatan_Kab_73678,69.45,6.68152E+11
+"Halmahera Tengah, Kab.",IDN_Halmahera_Tengah_Kab_73679,70.55,5.3757E+11
+"Halmahera Timur, Kab.",IDN_Halmahera_Timur_Kab_73680,69.42,6.09295E+11
+"Halmahera Utara, Kab.",IDN_Halmahera_Utara_Kab_73681,70.36,6.12139E+11
+"Hulu Sungai Selatan, Kab.",IDN_Hulu_Sungai_Selatan_Kab_18110,72,8.03208E+11
+"Hulu Sungai Tengah, Kab.",IDN_Hulu_Sungai_Tengah_Kab_18111,72.21,8.12824E+11
+"Humbang Hasundutan, Kab.",IDN_Humbang_Hasundutan_Kab_73683,73.09,6.27806E+11
+"Indragiri Hilir, Kab.",IDN_Indragiri_Hilir_Kab_18162,76.41,1.54547E+12
+"Indragiri Hulu, Kab.",IDN_Indragiri_Hulu_Kab_73684,75.21,1.38445E+12
+"Indramayu, Kab.",IDN_Indramayu_Kab_18013,69.52,2.12131E+12
+"Jayapura, Kab.",IDN_Jayapura_Kab_73685,73.79,8.63348E+11
+"Jayawijaya, Kab.",IDN_Jayawijaya_Kab_73686,57.55,9.70964E+11
+"Jember, Kab.",IDN_Jember_Kab_18070,66.6,2.36637E+12
+"Jembrana, Kab.",IDN_Jembrana_Kab_17973,74.29,7.45335E+11
+"Jeneponto, Kab.",IDN_Jeneponto_Kab_18173,66.22,7.07692E+11
+"Jepara, Kab.",IDN_Jepara_Kab_18039,74.13,1.38669E+12
+"Jombang, Kab.",IDN_Jombang_Kab_18071,74.47,1.56761E+12
+"Kaimana, Kab.",IDN_Kaimana_Kab_73687,71.87,7.9909E+11
+"Kampar, Kab.",IDN_Kampar_Kab_73688,75.83,2.26835E+12
+"Kapuas Hulu, Kab.",IDN_Kapuas_Hulu_Kab_18101,70.97,1.08146E+12
+"Karanganyar, Kab.",IDN_Karanganyar_Kab_18040,75.27,1.36905E+12
+"Karangasem, Kab.",IDN_Karangasem_Kab_17974,68.47,1.04158E+12
+"Karawang, Kab.",IDN_Karawang_Kab_18014,71.56,2.69183E+12
+"Karimun, Kab.",IDN_Karimun_Kab_73690,74.95,1.05086E+12
+"Karo, Kab.",IDN_Karo_Kab_18227,76.76,9.09311E+11
+"Katingan, Kab.",IDN_Katingan_Kab_73691,73.83,7.69752E+11
+"Kaur, Kab.",IDN_Kaur_Kab_73692,71.54,4.61125E+11
+"Kayong Utara, Kab.",IDN_Kayong_Utara_18253,66.83,4.77221E+11
+"Kebumen, Kab.",IDN_Kebumen_Kab_18041,72.25,1.62653E+12
+"Kediri, Kab.",IDN_Kediri_Kab_18072,73.29,1.79094E+12
+"Keerom, Kab.",IDN_KeeROU_Kab_73693,70.42,6.9155E+11
+"Kendal, Kab.",IDN_Kendal_Kab_73694,72.03,1.38864E+12
+"Kep. Siau Tagulandang Biaro, Kab.",IDN_Kep_Siau_Tagulandang_Biaro_Kab_18296,74.56,4.25924E+11
+"Kepahiang, Kab.",IDN_Kepahiang_Kab_73882,69.76,4.92415E+11
+"Kepulauan Anambas, Kab.",IDN_Kepulauan_Anambas_18254,70.48,9.40911E+11
+"Kepulauan Aru, Kab.",IDN_Kepulauan_Aru_Kab_73697,71.29,5.02693E+11
+"Kepulauan Mentawai, Kab.",IDN_Kepulauan_Mentawai_Kab_73696,69.72,6.26027E+11
+"Kepulauan Meranti, Kab.",IDN_Kepulauan_Meranti_18255,71.8,1.05057E+12
+"Kepulauan Sangihe, Kab.",IDN_Kepulauan_Sangihe_Kab_73699,76.79,6.18793E+11
+"Kepulauan Selayar, Kab.",IDN_Kepulauan_Selayar_Kab_18182,71,6.08033E+11
+"Kepulauan Sula, Kab.",IDN_Kepulauan_Sula_Kab_73700,69.59,5.58083E+11
+"Kepulauan Yapen, Kab.",IDN_Kepulauan_Yapen_Kab_73880,71.4,6.20039E+11
+"Kerinci, Kab.",IDN_Kerinci_Kab_18002,75.49,8.01645E+11
+"Ketapang, Kab.",IDN_Ketapang_Kab_18102,69.74,1.39627E+12
+"Klaten, Kab.",IDN_Klaten_Kab_18042,74.91,1.73559E+12
+"Klungkung, Kab.",IDN_Klungkung_Kab_17975,72.25,7.11405E+11
+"Kolaka Timur, Kab.",IDN_Kolaka_Timur_18257,68.59,6369123121
+"Kolaka Utara, Kab.",IDN_Kolaka_Utara_Kab_73702,70.65,6.1501E+11
+"Kolaka, Kab.",IDN_Kolaka_Kab_73703,72.39,9.14367E+11
+"Konawe Kepulauan, Kab.",IDN_Konawe_Kepulauan_18259,66.04,5500000000
+"Konawe Utara, Kab.",IDN_Konawe_Utara_18260,70.66,5.81707E+11
+"Konawe, Kab.",IDN_Konawe_18258,71.67,8.69222E+11
+"Kotabaru, Kab.",IDN_Kotabaru_Kab_18114,73.15,1.17863E+12
+"Kotawaringin Barat, Kab.",IDN_Kotawaringin_Barat_Kab_73762,75.11,8.75985E+11
+"Kotawaringin Timur, Kab.",IDN_Kotawaringin_Timur_Kab_73763,75.4,1.18315E+12
+"Kuantan Singingi, Kab.",IDN_Kuantan_Singingi_Kab_73764,74.77,1.23185E+12
+"Kubu Raya, Kab.",IDN_Kubu_Raya_18262,69.32,9.54287E+11
+"Kudus, Kab.",IDN_Kudus_Kab_18049,74.09,1.38618E+12
+"Kulon Progo, Kab.",IDN_Kulon_Progo_Kab_17984,75.95,1.00318E+12
+"Kuningan, Kab.",IDN_Kuningan_Kab_18019,72.47,1.62574E+12
+"Kupang, Kab.",IDN_Kupang_Kab_73765,67.74,7.50108E+11
+"Kutai Barat, Kab.",IDN_Kutai_Barat_Kab_73766,74.61,2.25458E+12
+"Kutai Kartanegara, Kab.",IDN_Kutai_Kartanegara_Kab_73767,74.8,5.95067E+12
+"Kutai Timur, Kab.",IDN_Kutai_Timur_Kab_73768,74.23,3.04899E+12
+"Labuhan Batu Selatan, Kab.",IDN_Labuhan_Batu_Selatan_18263,75.48,6.18909E+11
+"Labuhan Batu Utara, Kab.",IDN_Labuhan_Batu_Utara_18264,75.7,7.55137E+11
+"Labuhan Batu, Kab.",IDN_Labuhan_Batu_Kab_18233,75.71,8.27443E+11
+"Lahat, Kab.",IDN_Lahat_Kab_73769,72.68,1.22982E+12
+"Lamandau, Kab.",IDN_Lamandau_Kab_73770,73.29,5.57919E+11
+"Lamongan, Kab.",IDN_Lamongan_Kab_18081,71.81,1.67466E+12
+"Lampung Barat, Kab.",IDN_Lampung_Barat_Kab_73771,70.37,8.54218E+11
+"Lampung Selatan, Kab.",IDN_Lampung_Selatan_Kab_18135,71.25,1.19878E+12
+"Lampung Tengah, Kab.",IDN_Lampung_Tengah_Kab_18136,72.3,1.61395E+12
+"Lampung Timur, Kab.",IDN_Lampung_Timur_Kab_73772,72.14,1.36683E+12
+"Lampung Utara, Kab.",IDN_Lampung_Utara_Kab_18137,71.7,1.11447E+12
+"Landak, Kab.",IDN_Landak_Kab_73773,69.58,8.63851E+11
+"Langkat, Kab.",IDN_Langkat_Kab_18234,74.38,1.5559E+12
+"Lanny Jaya, Kab.",IDN_Lanny_Jaya_18265,51.07,8.47234E+11
+"Lebak, Kab.",IDN_Lebak_Kab_18020,68.82,1.47543E+12
+"Lebong, Kab.",IDN_Lebong_Kab_73774,71.58,4.57735E+11
+"Lembata, Kab.",IDN_Lembata_Kab_73775,69.17,4.68279E+11
+"Limapuluh Kota, Kab",IDN_Limapuluh_Kota_Kab_18208,72.54,8.88857E+11
+"Lingga, Kab.",IDN_Lingga_Kab_73776,72.41,7.18948E+11
+"Lombok Barat, Kab.",IDN_Lombok_Barat_Kab_18145,63.82,9.94525E+11
+"Lombok Tengah, Kab.",IDN_Lombok_Tengah_Kab_18146,63.51,1.23052E+12
+"Lombok Timur, Kab.",IDN_Lombok_Timur_Kab_18147,65.78,1.43465E+12
+"Lombok Utara, Kab.",IDN_Lombok_Utara_18266,61.9,4.94116E+11
+"Lumajang, Kab.",IDN_Lumajang_Kab_18082,69.5,1.29932E+12
+"Luwu Timur, Kab.",IDN_Luwu_Timur_Kab_73777,73.96,8.4291E+11
+"Luwu Utara, Kab.",IDN_Luwu_Utara_Kab_73778,75.36,7.29426E+11
+"Luwu, Kab.",IDN_Luwu_Kab_73779,75.33,7.80141E+11
+"Madiun, Kab.",IDN_Madiun_Kab_18083,71.46,1.18286E+12
+"Magelang, Kab.",IDN_Magelang_Kab_18050,73.67,1.42824E+12
+"Magetan, Kab.",IDN_Magetan_Kab_18084,74.34,1.22538E+12
+"Mahakam Hulu, Kab.",IDN_Mahakam_Hulu_18267,73,1.00004E+11
+"Majalengka, Kab.",IDN_Majalengka_Kab_18021,71.9,1.79176E+12
+"Majene, Kab.",IDN_Majene_Kab_18177,73.16,5.96607E+11
+"Malang, Kab.",IDN_Malang_Kab_73780,72.34,2.52969E+12
+"Malinau, Kab.",IDN_Malinau_Kab_73793,74.33,6.76883E+11
+"Maluku Tengah, Kab.",IDN_Maluku_Tengah_Kab_73781,71.81,1.01817E+12
+"Maluku Tenggara Barat, Kab.",IDN_Maluku_Tenggara_Barat_Kab_73782,69.87,5.71399E+11
+"Maluku Tenggara, Kab.",IDN_Maluku_Tenggara_Kab_73783,73.6,5.19386E+11
+"Mamasa, Kab.",IDN_Mamasa_Kab_73784,72.56,5.72653E+11
+"Mamberamo Raya, Kab.",IDN_Mamberamo_Raya_18269,60.64,8.68322E+11
+"Mandailing Natal, Kab",IDN_Mandailing_Natal_Kab_73787,71.72,8.70952E+11
+"Manggarai Barat, Kab.",IDN_Manggarai_Barat_Kab_73788,67.38,5.3411E+11
+"Manggarai Timur, Kab.",IDN_Manggarai_Timur_18271,67.62,5.3415E+11
+"Manggarai, Kab.",IDN_Manggarai_Kab_73789,68.69,6.64536E+11
+"Manokwari, Kab.",IDN_Manokwari_Kab_73790,68.61,1.02569E+12
+"Mappi, Kab.",IDN_Mappi_Kab_73791,52.08,8.84593E+11
+"Maros, Kab.",IDN_Maros_Kab_73792,73.48,8.79547E+11
+"Maybrat, Kab.",IDN_Maybrat_18273,67.6,6.46732E+11
+"Melawi, Kab.",IDN_Melawi_Kab_73794,69.86,6.69009E+11
+"Merangin, Kab.",IDN_Merangin_Kab_73795,73.28,9.25554E+11
+"Merauke, Kab.",IDN_Merauke_Kab_73796,67.48,1.84652E+11
+"Mesuji, Kab.",IDN_Mesuji_18274,68.79,4.7675E+11
+"Mimika, Kab.",IDN_Mimika_Kab_73797,70.39,1.43229E+12
+"Minahasa Selatan, Kab.",IDN_Minahasa_Selatan_Kab_73798,75.82,6.04615E+11
+"Minahasa Tenggara, Kab.",IDN_Minahasa_Tenggara_18275,73.79,8.38743E+11
+"Minahasa Utara, Kab.",IDN_Minahasa_Utara_Kab_73799,77.23,6.41023E+11
+"Minahasa, Kab.",IDN_Minahasa_Kab_73800,77.06,8.04782E+11
+"Mojokerto, Kab.",IDN_Mojokerto_Kab_18086,75.26,1.49819E+12
+"Morowali, Kab.",IDN_Morowali_Kab_73801,72.27,8.94453E+11
+"Muara Enim, Kab.",IDN_Muara_Enim_Kab_73802,72.06,1.8451E+12
+"Muaro Jambi, Kab.",IDN_Muaro_Jambi_Kab_73803,74.1,9.56865E+11
+"Mukomuko, Kab.",IDN_Mukomuko_Kab_73804,71.79,5.62938E+11
+"Muna, Kab.",IDN_Muna_Kab_18196,68.97,9.21153E+11
+"Murung Raya, Kab.",IDN_Murung_Raya_Kab_73805,73.98,8.68194E+11
+"Musi Rawas Utara, Kab.",IDN_Musi_Rawas_Utara_18277,67.94,5011238619
+"Musi Rawas, Kab.",IDN_Musi_Rawas_Kab_73807,69.57,1.5144E+12
+"Nabire, Kab.",IDN_Nabire_Kab_73808,68.49,8.16662E+11
+"Nagan Raya, Kab.",IDN_Nagan_Raya_Kab_73809,71.5,6.39663E+11
+"Nagekeo, Kab.",IDN_Nagekeo_18278,67.93,4.39857E+11
+"Natuna, Kab.",IDN_Natuna_Kab_73810,72.25,1.31067E+12
+"Nduga, Kab.",IDN_Nduga_18279,49.29,6.54043E+11
+"Ngada, Kab.",IDN_Ngada_Kab_18155,70.89,4.89566E+11
+"Nganjuk, Kab.",IDN_Nganjuk_Kab_18087,72.49,1.55954E+12
+"Ngawi, Kab.",IDN_Ngawi_Kab_18088,70.86,1.41446E+12
+"Nias Barat, Kab.",IDN_Nias_Barat_18280,67.91,3.26277E+11
+"Nias Utara, Kab.",IDN_Nias_Utara_18281,69.39,4.10461E+11
+"Nias, Kab.",IDN_Nias_Kab_73812,69.93,4.61359E+11
+"Nunukan, Kab.",IDN_Nunukan_Kab_73813,75.13,1.57976E+12
+"Ogan Ilir, Kab.",IDN_Ogan_Ilir_Kab_73814,70.89,9.9539E+11
+"Ogan Komering Ilir, Kab.",IDN_Ogan_Komering_Ilir_Kab_73815,71.82,1.41041E+12
+"Ogan Komering Ulu Selatan, Kab.",IDN_Ogan_Komering_Ulu_Selatan_Kab_73816,72.67,8.20131E+11
+"Ogan Komering Ulu Timur, Kab.",IDN_Ogan_Komering_Ulu_Timur_Kab_73817,71.19,1.17308E+12
+"Ogan Komering Ulu, Kab.",IDN_Ogan_Komering_Ulu_Kab_73818,74.42,9.78833E+11
+"Pacitan, Kab.",IDN_Pacitan_Kab_18089,73.36,1.0614E+12
+"Padang Lawas Utara, Kab.",IDN_Padang_Lawas_Utara_18283,73.96,2.76976E+11
+"Padang Lawas, Kab.",IDN_Padang_Lawas_18282,73.27,5.39014E+11
+"Padang Pariaman, Kab.",IDN_Padang_Pariaman_Kab_73819,72.93,9.56685E+11
+"Pakpak Bharat, Kab.",IDN_Pakpak_Bharat_Kab_73820,72.54,3.9045E+11
+"Pamekasan, Kab.",IDN_Pamekasan_Kab_18090,67.17,1.21985E+12
+"Pandeglang, Kab.",IDN_Pandeglang_Kab_18022,69.64,1.54184E+12
+"Pangkajene Kepulauan, Kab.",IDN_Pangkajene_Kepulauan_Kab_18179,71.26,9.13803E+11
+"Paniai, Kab.",IDN_Paniai_Kab_17996,60.81,7.05733E+11
+"Parigi Moutong, Kab.",IDN_Parigi_Moutong_Kab_73821,70.33,8.28783E+11
+"Pasaman Barat, Kab.",IDN_Pasaman_Barat_Kab_73822,71.39,7.47597E+11
+"Pasaman, Kab",IDN_Pasaman_Kab_73745,74.1,6.87125E+11
+"Paser, Kab.",IDN_Paser_Kab_73823,76.56,2.00839E+12
+"Pasuruan, Kab.",IDN_Pasuruan_Kab_18091,69.77,1.81974E+12
+"Pati, Kab.",IDN_Pati_Kab_18051,74.58,1.70603E+12
+"Pegunungan Bintang, Kab.",IDN_Pegunungan_Bintang_Kab_73824,50.32,1.03366E+12
+"Pekalongan, Kab.",IDN_Pekalongan_Kab_18052,73.14,1.2324E+12
+"Pelalawan, Kab.",IDN_Pelalawan_Kab_73825,74.27,1.33846E+12
+"Pemalang, Kab.",IDN_Pemalang_Kab_18053,71.26,1.48677E+12
+"Penajam Paser Utara, Kab.",IDN_Penajam_Paser_Utara_Kab_73826,74.82,1.32832E+12
+"Penukal Abab Lematang Ilir, Kab.",IDN_Penukal_Abab_Lematang_Ilir_18286,68.31,17011558472
+"Pesawaran, Kab.",IDN_Pesawaran_17983.55,71.25,7.82448E+11
+"Pesisir Selatan, Kab.",IDN_Pesisir_Selatan_Kab_18212,72.98,1.02492E+12
+"Pidie Jaya, Kab.",IDN_Pidie_Jaya_18288,73.69,5.05396E+11
+"Pidie, Kab.",IDN_Pidie_Kab_17968,73.32,1.01567E+12
+"Pinrang, Kab.",IDN_Pinrang_Kab_18180,74.87,8.56677E+11
+"Pohuwato, Kab.",IDN_Pohuwato_Kab_73827,71.32,5.51262E+11
+"Polewali Mandar, Kab.",IDN_Polewali_Mandar_Kab_73828,69.17,8.08539E+11
+"Ponorogo, Kab.",IDN_Ponorogo_Kab_18092,72.61,1.45219E+12
+"Pontianak, Kab.",IDN_Pontianak_Kab_73829,70.13,6.67573E+11
+"Poso, Kab.",IDN_Poso_Kab_73830,71.54,8.19976E+11
+"Pringsewu, Kab.",IDN_Pringsewu_18289,73.22,7.84516E+11
+"Probolinggo, Kab.",IDN_Probolinggo_Kab_18093,65.19,1.38194E+12
+"Pulang Pisau, Kab.",IDN_Pulang_Pisau_Kab_73831,73.18,6.36602E+11
+"Pulau Morotai, Kab.",IDN_Pulau_Morotai_18290,67.03,4.35733E+11
+"Puncak Jaya, Kab.",IDN_Puncak_Jaya_Kab_73832,68.68,8.33222E+11
+"Puncak, Kab.",IDN_Puncak_18292,50.18,9.00796E+11
+"Purbalingga, Kab.",IDN_Purbalingga_Kab_18054,73.49,1.18653E+12
+"Purwakarta, Kab.",IDN_Purwakarta_Kab_18023,72.75,1.37114E+12
+"Purworejo, Kab.",IDN_Purworejo_Kab_18055,74.18,1.28904E+12
+"Raja Ampat, Kab.",IDN_Raja_Ampat_Kab_73833,66.08,8.40353E+11
+"Rembang, Kab.",IDN_Rembang_Kab_18056,73.53,1.16543E+12
+"Rokan Hilir, Kab.",IDN_Rokan_Hilir_Kab_73835,73.45,1.95518E+12
+"Rokan Hulu, Kab.",IDN_Rokan_Hulu_Kab_73836,73.87,1.31142E+12
+"Sabu Raijua, Kab.",IDN_Sabu_Raijua_18293,57.74,3.76887E+11
+"Salatiga, Kota",IDN_Salatiga_Kota_18045,77.54,6.03204E+11
+"Sambas, Kab.",IDN_Sambas_Kab_18105,66.81,1.06308E+12
+"Samosir, Kab.",IDN_Samosir_Kab_73838,75.02,5.29781E+11
+"Sampang, Kab.",IDN_Sampang_Kab_18094,62.39,1.10295E+12
+"Sanggau, Kab.",IDN_Sanggau_Kab_73839,70.3,9.99856E+11
+"Sarolangun, Kab.",IDN_Sarolangun_Kab_73841,74.08,8.22921E+11
+"Sekadau, Kab.",IDN_Sekadau_Kab_73843,68.99,5.75267E+11
+"Seluma, Kab.",IDN_Seluma_Kab_73844,68.4,5.58013E+11
+"Semarang, Kab.",IDN_Semarang_Kab_18057,75.48,1.37338E+12
+"Seram Bagian Timur, Kab.",IDN_Seram_Bagian_Timur_Kab_73846,69.11,5.31232E+11
+"Serang, Kab.",IDN_Serang_Kab_18024,70.25,1.76652E+12
+"Serdang Bedagai, Kab.",IDN_Serdang_Bedagai_Kab_73847,74.41,9.88059E+11
+"Seruyan, Kab.",IDN_Seruyan_Kab_73848,73.36,7.83613E+11
+"Siak, Kab.",IDN_Siak_Kab_73849,77.44,2.27379E+12
+"Sidenreng Rappang, Kab.",IDN_Sidenreng_Rappang_Kab_18183,74.05,7.45706E+11
+"Sidoarjo, Kab.",IDN_Sidoarjo_Kab_18095,78.15,2.69527E+12
+"Sigi, Kab.",IDN_Sigi_18297,68.96,6.67657E+11
+"Sijunjung, Kab.",IDN_Sijunjung_Kab_73842,72.15,6.6E+11
+"Sikka, Kab.",IDN_Sikka_Kab_18156,69.18,6.7427E+11
+"Simalungun, Kab.",IDN_Simalungun_Kab_18236,74.55,1.46817E+12
+"Simeulue, Kab.",IDN_Simeulue_Kab_73850,70.76,4.85546E+11
+"Sinjai, Kab.",IDN_Sinjai_Kab_18184,71.45,6.62485E+11
+"Sintang, Kab.",IDN_Sintang_Kab_73851,69.81,1.09348E+12
+"Situbondo, Kab.",IDN_Situbondo_Kab_18096,65.73,1.10947E+12
+"Sleman, Kab.",IDN_Sleman_Kab_17985,79.97,1.89953E+12
+"Solok Selatan, Kab.",IDN_Solok_Selatan_Kab_73852,70.23,5.15128E+11
+"Solok, Kab.",IDN_Solok_Kab_73853,72.46,8.57928E+11
+"Soppeng, Kab.",IDN_Soppeng_Kab_18185,73.31,7.617E+11
+"Sorong Selatan, Kab.",IDN_Sorong_Selatan_Kab_73854,67.28,6.26315E+11
+"Sorong, Kab.",IDN_Sorong_Kab_73855,69.74,1.29951E+12
+"Sragen, Kab.",IDN_Sragen_Kab_18058,72.31,1.46897E+12
+"Subang, Kab.",IDN_Subang_Kab_18025,72.1,1.81583E+12
+"Sukabumi, Kab.",IDN_Sukabumi_Kab_18026,71.96,2.40836E+12
+"Sukamara, Kab.",IDN_Sukamara_Kab_73856,73.24,5.36061E+11
+"Sukoharjo, Kab.",IDN_Sukoharjo_Kab_18059,74.91,1.36564E+12
+"Sumba Barat Daya, Kab.",IDN_Sumba_Barat_Daya_18298,63.05,4.97178E+11
+"Sumba Barat, Kab.",IDN_Sumba_Barat_Kab_18157,65.49,4.25846E+11
+"Sumba Tengah, Kab.",IDN_Sumba_Tengah_18299,62.29,3.41655E+11
+"Sumba Timur, Kab.",IDN_Sumba_Timur_Kab_18158,63.8,6.93573E+11
+"Sumbawa Barat, Kab.",IDN_Sumbawa_Barat_Kab_73857,68.5,5.44251E+11
+"Sumbawa, Kab.",IDN_Sumbawa_Kab_73858,68.06,9.55352E+11
+"Sumedang, Kab.",IDN_Sumedang_Kab_18027,73.58,1.71519E+12
+"Sumenep, Kab.",IDN_Sumenep_Kab_18097,66.89,1.49694E+12
+"Supiori, Kab.",IDN_Supiori_Kab_73859,69.5,5.75972E+11
+"Tabalong, Kab.",IDN_Tabalong_Kab_18115,71.56,6.67707E+11
+"Tabanan, Kab.",IDN_Tabanan_Kab_17976,76.19,1.25303E+12
+"Takalar, Kab.",IDN_Takalar_Kab_18186,70.77,7.08533E+11
+"Tambrauw, Kab",IDN_Tambrau_18301,51.54,6.29297E+11
+"Tana Tidung, Kab.",IDN_Tana_Tidung_18302,73.2,1.04299E+12
+"Tana Toraja, Kab.",IDN_Tana_Toraja_Kab_18187,73.76,6.59865E+11
+"Tanah Bumbu, Kab.",IDN_Tanah_Bumbu_Kab_73860,71.82,1.07762E+12
+"Tanah Datar, Kab.",IDN_Tanah_Datar_Kab_18215,75.29,8.93108E+11
+"Tanah Laut, Kab.",IDN_Tanah_Laut_Kab_18116,73.46,1.22581E+12
+"Tangerang, Kab.",IDN_Tangerang_Kab_18028,72.82,3.46536E+12
+"Tanggamus, Kab.",IDN_Tanggamus_Kab_73861,72.66,8.8382E+11
+"Tanjung Jabung Barat, Kab.",IDN_Tanjung_Jabung_Barat_Kab_73862,74.21,1.10196E+12
+"Tanjung Jabung Timur, Kab.",IDN_Tanjung_Jabung_Timur_Kab_73863,73.03,9.20659E+11
+"Tapanuli Selatan, Kab.",IDN_Tapanuli_Selatan_Kab_73864,75.13,8.10115E+11
+"Tapanuli Tengah, Kab.",IDN_Tapanuli_Tengah_Kab_73865,72.55,8.71724E+11
+"Tapanuli Utara, Kab.",IDN_Tapanuli_Utara_Kab_73866,75.81,1.70447E+12
+"Tapin, Kab.",IDN_Tapin_Kab_18117,72.18,4.31691E+11
+"Tasikmalaya, Kab.",IDN_Tasikmalaya_Kab_73867,73.26,2.21362E+12
+"Tebo, Kab.",IDN_Tebo_Kab_73868,73.38,7.9302E+11
+"Tegal, Kab.",IDN_Tegal_Kab_18060,72.22,1.57407E+12
+"Teluk Bintuni, Kab.",IDN_Teluk_Bintuni_Kab_73869,67.95,1.45102E+12
+"Teluk Wondama, Kab.",IDN_Teluk_Wondama_Kab_73870,67.54,6.07258E+11
+"Temanggung, Kab.",IDN_Temanggung_Kab_18061,75,1.05385E+12
+"Timor Tengah Selatan, Kab.",IDN_Timor_Tengah_Selatan_Kab_18159,66.83,8.38702E+11
+"Timor Tengah Utara, Kab.",IDN_Timor_Tengah_Utara_Kab_18160,68.94,6.08393E+11
+"Toba Samosir, Kab.",IDN_Toba_Samosir_Kab_73871,77.49,7.17187E+11
+"Tojo Una-Una, Kab.",IDN_Tojo_Una-Una_Kab_73872,70,6.15869E+11
+"Tolikara, Kab.",IDN_Tolikara_Kab_73874,53.06,8.03918E+11
+"Toli-Toli, Kab.",IDN_Toli-Toli_Kab_73873,70.24,6.64676E+11
+"Toraja Utara, Kab.",IDN_Toraja_Utara_18304,71.69,6.05494E+11
+"Trenggalek, Kab.",IDN_Trenggalek_Kab_18098,74.44,1.20668E+12
+"Tuban, Kab.",IDN_Tuban_Kab_18099,70.04,1.52602E+12
+"Tulang Bawang Barat, Kab.",IDN_Tulang_Bawang_Barat_18306,70.38,5.68385E+11
+"Tulungagung, Kab.",IDN_Tulungagung_Kab_18100,74.79,1.77487E+12
+"Wajo, Kab.",IDN_Wajo_Kab_18188,72.55,1.0192E+12
+"Waropen, Kab.",IDN_Waropen_Kab_73877,64.77,6.341E+11
+"Way Kanan, Kab.",IDN_Way_Kanan_Kab_73878,71.08,7.78381E+11
+"Wonogiri, Kab.",IDN_Wonogiri_Kab_18062,73.09,1.48931E+12
+"Wonosobo, Kab.",IDN_Wonosobo_Kab_18063,71.9,1.14418E+12
+"Yahukimo, Kab.",IDN_Yahukimo_Kab_73879,51.14,8.2991E+11
+"Yalimo, Kab.",IDN_Yalimo_18307,49.86,7.24777E+11
